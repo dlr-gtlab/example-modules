@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GTLABMODULE uuid="{76bf385b-ad3b-44e7-9ea5-3f0c0c8cb923}">
+    <object class="CDSession" name="Tag 1" uuid="{f8667d66-1e26-4d33-8e1a-3b33b537154c}">
+        <property name="title" type="QString"/>
+        <objectlist>
+            <object class="CDSession" name="Start" uuid="{1b463498-5102-45b6-8711-d3e251e28ba5}">
+                <property name="title" type="QString"/>
+                <objectlist>
+                    <object class="CDTalk" name="Willkommen" uuid="{bc75b763-503e-4ff6-b86d-abda7a5978c3}">
+                        <property name="time" type="QString">13:00</property>
+                        <property name="presenter" type="QString">Florian Herbst</property>
+                        <property name="title" type="QString"/>
+                    </object>
+                    <object class="CDTalk" name="Key Note - MTU" uuid="{6ffdeeef-c305-4d5c-91b0-9f121b0a8cae}">
+                        <property name="time" type="QString">13:30</property>
+                        <property name="presenter" type="QString">Dr. Ing Marc Nagel</property>
+                        <property name="title" type="QString"/>
+                    </object>
+                </objectlist>
+            </object>
+            <object class="CDBreak" name="Pause" uuid="{08deb593-cc0d-45be-8d81-1036b7aa4844}">
+                <property name="time" type="QString">13:30</property>
+            </object>
+            <object class="CDSession" name="Session 1" uuid="{ad401774-dd1c-459e-82fb-e4890821918e}">
+                <property name="title" type="QString">The first session</property>
+                <objectlist>
+                    <object class="CDTalk" name="Einstieg in GTlab" uuid="{073cb9fd-45fe-44cc-b7af-08ede052f254}">
+                        <property name="time" type="QString">14:00</property>
+                        <property name="presenter" type="QString">Stanislaus Reitenbach + Martin Siggel</property>
+                        <property name="title" type="QString">Was ist GTlab? Der Talk zeigt, wie in GTlab virtualle Produkte entwickelt werden können.</property>
+                    </object>
+                    <object class="CDTalk" name="Triebwerkvorauslegung" uuid="{fc276ffa-7577-45cd-baac-53eb967fa032}">
+                        <property name="time" type="QString">0:00</property>
+                        <property name="presenter" type="QString"/>
+                        <property name="title" type="QString"/>
+                    </object>
+                    <object class="CDTalk" name="Deep Dive Datenmodellierung" uuid="{986949a5-7d35-4e40-9c61-271f84e41edd}">
+                        <property name="time" type="QString">0:00</property>
+                        <property name="presenter" type="QString"/>
+                        <property name="title" type="QString"/>
+                    </object>
+                    <object class="CDTalk" name="Strukturmechanische Auslegung" uuid="{5b0bbbd6-1be1-4fe3-b7c4-ca1bf48e7f3d}">
+                        <property name="time" type="QString">0:00</property>
+                        <property name="presenter" type="QString"/>
+                        <property name="title" type="QString"/>
+                    </object>
+                </objectlist>
+            </object>
+            <object class="CDBreak" name="Pause" uuid="{73fd6b8f-916a-4a4e-822f-a0801eae0c9a}">
+                <property name="time" type="QString">15:20</property>
+            </object>
+            <object class="CDSession" name="Session 2" uuid="{efb73037-ce09-45a9-874b-2c6b73bcf28c}">
+                <property name="title" type="QString"/>
+                <objectlist>
+                    <object class="CDTalk" name="Elektrifizierte Antriebe" uuid="{3f9590b4-1cd4-43ba-afb9-4038e0a812ea}">
+                        <property name="time" type="QString">15:55</property>
+                        <property name="presenter" type="QString">Dr. Katharina Kolo</property>
+                        <property name="title" type="QString"/>
+                    </object>
+                </objectlist>
+            </object>
+        </objectlist>
+    </object>
+    <object class="CDSession" name="Tag 2" uuid="{8123d0b4-ec5f-44c6-9bca-e071a2cedb8d}">
+        <property name="title" type="QString"/>
+    </object>
+</GTLABMODULE>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GTLAB projectname="Schedule GTLab community days2" version="2.0.10">
+    <env-footprint>
+        <hash>61ebb3c922695e8fae5f76b8c137716f567ffb36bb061f1ab64e46301e835dde</hash>
+        <core-ver>2.0.10</core-ver>
+        <modules>
+            <module>
+                <id>Airfoil Collection</id>
+                <ver>3.3.0</ver>
+            </module>
+            <module>
+                <id>Basic Tools</id>
+                <ver>2.4.0</ver>
+            </module>
+            <module>
+                <id>CommunityDays</id>
+                <ver>0.0.1</ver>
+            </module>
+            <module>
+                <id>DLRp2 Interface Module</id>
+                <ver>3.2.1</ver>
+            </module>
+            <module>
+                <id>Fluid Collection</id>
+                <ver>3.3.0</ver>
+            </module>
+            <module>
+                <id>Fuel Collection</id>
+                <ver>3.3.0</ver>
+            </module>
+            <module>
+                <id>GTMesh</id>
+                <ver>0.0.1</ver>
+            </module>
+            <module>
+                <id>Geometry</id>
+                <ver>0.2.1</ver>
+            </module>
+            <module>
+                <id>HDF5 Module</id>
+                <ver>0.6.3</ver>
+            </module>
+            <module>
+                <id>IntelliGraph</id>
+                <ver>0.12.0</ver>
+            </module>
+            <module>
+                <id>Map Collection</id>
+                <ver>3.3.1</ver>
+            </module>
+            <module>
+                <id>MassEstimation</id>
+                <ver>0.2.0</ver>
+            </module>
+            <module>
+                <id>Material Collection</id>
+                <ver>4.0.2</ver>
+            </module>
+            <module>
+                <id>Performance</id>
+                <ver>4.2.1</ver>
+            </module>
+            <module>
+                <id>Post Processing</id>
+                <ver>3.2.0</ver>
+            </module>
+            <module>
+                <id>PreDesign</id>
+                <ver>3.5.5</ver>
+            </module>
+            <module>
+                <id>PreDesign Node</id>
+                <ver>0.1.2</ver>
+            </module>
+            <module>
+                <id>Python Module (Python 3.9)</id>
+                <ver>1.6.1</ver>
+            </module>
+            <module>
+                <id>Python Setup</id>
+                <ver>1.6.1</ver>
+            </module>
+            <module>
+                <id>RCE Remote Plugin</id>
+                <ver>3.0.0</ver>
+            </module>
+            <module>
+                <id>Sketchpad</id>
+                <ver>2.5.1</ver>
+            </module>
+        </modules>
+    </env-footprint>
+    <comment></comment>
+    <MODULES>
+        <MODULE name="CommunityDays" version="0.0.1"/>
+    </MODULES>
+    <LABELS>
+        <object class="GtLabel" name="Default" uuid="{e9ad449f-f7e2-44bb-aca4-e4a3804fb6d9}"/>
+    </LABELS>
+</GTLAB>

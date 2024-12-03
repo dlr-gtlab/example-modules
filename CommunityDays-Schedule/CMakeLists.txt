@@ -26,3 +26,5 @@ if (NOT TARGET GTlab::Core)
 endif()
 
 add_subdirectory(src)
+
+install(DIRECTORY examples DESTINATION ".")
